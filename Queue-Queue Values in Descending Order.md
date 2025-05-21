@@ -1,7 +1,7 @@
 # Queue-Queue Values in Descending Order Using Python 🧮
-NAME : DHANUCIYA .J
+NAME : AMEEN BASHA A
 ---
-REG NO : 212224020010
+REG NO : 212224220008
 ---
 This Python program simulates a queue using a list, removes the first two elements (FIFO order), and displays the remaining values in descending order.
 
